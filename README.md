@@ -10,3 +10,7 @@ Ralf Lima: https://www.youtube.com/@RalfLima
 Também foi registrado em um documento PDF todo o conteúdo das aulas. O link para este documento vai estar disponibilizado logo abaixo:
 
 [Introdução Angular.pdf](https://github.com/user-attachments/files/17033125/Introducao.Angular.pdf)
+
+## Projeto do Curso
+Baseado no treinamento do Ralf Lima, outro repositório foi criado para um projeto dos estudos documentados. Segue o link:
+https://github.com/diegoNZ04/projeto-angular-basico
