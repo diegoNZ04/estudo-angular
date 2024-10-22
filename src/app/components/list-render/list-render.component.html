@@ -1,0 +1,12 @@
+<div class="render-animals">
+  <h2>Animais:</h2>
+  @for(animal of animals; track $index){
+  <ul>
+    <li>
+      Nome: {{ animal.name }}, Tipo: {{ animal.type }}
+      <button (click)="showAge(animal)">Show Age</button>
+    </li>
+  </ul>
+  }
+  <p>{{ animalDetails }}</p>
+</div>
